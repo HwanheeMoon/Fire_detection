@@ -1,0 +1,1 @@
+model : best_train-lstm best Accuracy : 100.000 %, lowest Loss: 0.0265
